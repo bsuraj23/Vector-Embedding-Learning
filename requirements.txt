@@ -1,0 +1,22 @@
+# Vector Embedding Learning - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML Libraries
+sentence-transformers>=2.2.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+plotly>=5.0.0
+
+# Database (optional - for MySQL examples)
+mysql-connector-python>=8.0.0
+
+# Additional utilities
+tqdm>=4.64.0
+pandas>=1.4.0
+
+# For Jupyter notebooks (optional)
+jupyter>=1.0.0
+ipywidgets>=7.7.0
